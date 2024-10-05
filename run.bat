@@ -6,6 +6,4 @@ move *.java com\jk
 cd com
 cd jk
 javac *.java
-cd ..
-cd ..
-java com/jk/Main
+java Main
